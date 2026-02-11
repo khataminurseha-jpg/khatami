@@ -1,0 +1,8 @@
+{
+  "name": "Sport Science High Performance System",
+  "description": "A comprehensive training planner and periodization system for high-performance sports, featuring macro volume calculation, daily session building, and AI-powered drill suggestions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
